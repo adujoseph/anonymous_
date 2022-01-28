@@ -1,0 +1,9 @@
+export const splash = 'Splash';
+export const login = 'login';
+export const register = 'register';
+export const chatList = 'Chat List';
+export const addFriend = 'Add Friend';
+export const caller = 'Caller';
+export const chatRoom = 'Chat Room';
+export const forgot = 'Forgot';
+export const changepassword = 'Change Password';
